@@ -159,6 +159,3 @@
         html.setAttribute('data-theme', 'dark');
       }
     }
-  </script>
-</body>
-</html>
